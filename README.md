@@ -56,7 +56,7 @@ const sourabh = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0ura8hs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0ura8hs&show_icons=true&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ura8hs&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 </div>
 
