@@ -1,4 +1,4 @@
-# <span style="color: #00D9FF;">🚀</span> Hey there, I'm <span style="color: #FF6B6B;">Sourabh</span>! 
+# 🚀 Hey there, I'm Sourabh! 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;B.Tech+IT+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Creative+Thinker+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
 </div>
 
-## <span style="color: #FFD700;">🌟</span> About Me
+## 🌟 About Me
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -28,13 +28,13 @@ const sourabh = {
 };
 ```
 
-- <span style="color: #FF6B6B;">🔭</span> Working on **Portfolio Website Generator** with React
-- <span style="color: #4ECDC4;">🌱</span> Learning **Advanced JavaScript** and **Full Stack Development**
-- <span style="color: #FFD700;">💬</span> Ask me about **React, JavaScript, Web Development**
-- <span style="color: #FF6B6B;">📫</span> Reach me at **sourabhkhairwal@gmail.com**
-- <span style="color: #4ECDC4;">⚡</span> Fun fact: **I create gamified apps with 50+ badges!**
+- 🔭 Working on **Portfolio Website Generator** with React
+- 🌱 Learning **Advanced JavaScript** and **Full Stack Development**
+- 💬 Ask me about **React, JavaScript, Web Development**
+- 📫 Reach me at **sourabhkhairwal@gmail.com**
+- ⚡ Fun fact: **I create gamified apps with 50+ badges!**
 
-## <span style="color: #4ECDC4;">🛠️</span> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -49,7 +49,7 @@ const sourabh = {
 
 </div>
 
-## <span style="color: #FF6B6B;">📊</span> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=s0ura8hs&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -60,29 +60,29 @@ const sourabh = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ura8hs&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 </div>
 
-## <span style="color: #FFD700;">🎮</span> Featured Projects
+## 🎮 Featured Projects
 
-### <span style="color: #4ECDC4;">🌟</span> Portfolio Website Generator
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ura8hs/portfolio-website-generator)
+### 🌟 Portfolio Website Generator
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ura8hs/portfolio-website-generator) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-website-generator.netlify.app/)
 - **Automated tool** with glassmorphism design and one-click deployment
 - **Tech:** HTML5, CSS3, JavaScript, React
 
-### <span style="color: #FF6B6B;">🎯</span> Habit Manager
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ura8hs/Habit-Manager)
+### 🎯 Habit Manager
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ura8hs/Habit-Manager) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://habit-manager-app.netlify.app/)
 - **Gamified habit-tracking** with 50+ unlockable badges
 - **Tech:** JavaScript, React, HTML, CSS
 
-### <span style="color: #FFD700;">💼</span> Interactive Portfolio
+### 💼 Interactive Portfolio
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ura8hs/s0urabh-portfolio) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://s0urabh-portfolio.netlify.app/)
 - **Neural network visualization** with 60fps animations
 - **Tech:** HTML5, CSS3, JavaScript
 
-### <span style="color: #4ECDC4;">🧩</span> Fifteen Puzzle Game
+### 🧩 Fifteen Puzzle Game
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ura8hs/FifteenPuzzleGame)
 - **Android puzzle game** with IDA* algorithm
 - **Tech:** Java, Android Studio, XML
 
-## <span style="color: #4ECDC4;">🌐</span> Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://s0urabh-portfolio.netlify.app/" target="_blank">
@@ -110,6 +110,6 @@ const sourabh = {
 ---
 
 <div align="center">
-  <h3><span style="color: #FFD700;">✨</span> "<span style="color: #4ECDC4;">Building digital experiences that blend creativity with functionality</span>" <span style="color: #FFD700;">✨</span></h3>
-  <sub><span style="color: #FF6B6B;">💙 Made with love and lots of ☕ by Sourabh</span></sub>
+  <h3>✨ "Building digital experiences that blend creativity with functionality" ✨</h3>
+  <sub>💙 Made with love and lots of ☕ by Sourabh</sub>
 </div>
