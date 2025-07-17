@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=s0ura8hs&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0ura8hs&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
