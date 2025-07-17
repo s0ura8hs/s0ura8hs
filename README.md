@@ -9,14 +9,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
   
   <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=2500&pause=600&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=⚡+FULL+STACK+DEVELOPER+⚡;🎯+B.Tech+IT+%40+University+of+Delhi+🎯;🚀+CODE+WARRIOR+%7C+ANIME+ENTHUSIAST+🚀;💫+BUILDING+DIGITAL+UNIVERSES+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=2500&pause=600&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=⚡+FULL+STACK+DEVELOPER+⚡;🎯+B.Tech+IT+%40+University+of+Delhi+🎯;🚀+SOFTWARE+ENGINEER+%7C+PROBLEM+SOLVER+🚀;💫+BUILDING+SCALABLE+SOLUTIONS+💫" alt="Typing SVG" />
   
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
   
 </div>
 
-## 🎌 **NINJA STATS** 
+## 🎌 **PROFESSIONAL PROFILE** 
 
 <div align="center">
   
@@ -27,7 +27,7 @@
         <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80" />
         <br>
         <img src="https://img.shields.io/badge/GPA-8.63%2F10-00D9FF?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" />
-        <br><sub><b>🏆 Academic Sensei</b></sub>
+        <br><sub><b>🏆 Academic Excellence</b></sub>
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216644446-c1c7c8c4-1089-4e2f-9b81-4cc8e1a2f8a4.gif" width="80" />
@@ -38,22 +38,22 @@
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216644507-f5e8d7d7-ac3c-4a7d-9e02-5c6b6c3d5a9a.gif" width="80" />
         <br>
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack-4ECDC4?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0D1117" />
-        <br><sub><b>⚔️ Web Samurai</b></sub>
+        <img src="https://img.shields.io/badge/Specialization-Full%20Stack-4ECDC4?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0D1117" />
+        <br><sub><b>⚔️ Software Engineer</b></sub>
       </td>
     </tr>
   </table>
   
 </div>
 
-## 🔮 **CHAKRA TECHNIQUES** (Tech Stack)
+## 🔮 **TECHNICAL EXPERTISE** 
 
 <div align="center">
   
   <!-- Animated Section Header -->
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
   
-  ### ⚡ **Lightning Style - Languages & Frameworks**
+  ### ⚡ **Programming Languages & Frameworks**
   
   <p>
     <img src="https://skillicons.dev/icons?i=js,java,cpp,react,html,css&theme=dark" />
@@ -66,7 +66,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
   
-  ### 🛠️ **Shadow Clone - Tools & Platforms**
+  ### 🛠️ **Development Tools & Platforms**
   
   <p>
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,netlify&theme=dark" />
@@ -77,9 +77,14 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117)
 
+  <!-- Additional Cool Animations -->
+  <img src="https://user-images.githubusercontent.com/74038190/216644458-8b8a0a9e-9e5b-4b8a-9d7e-6c9b4a6e7c5a.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/216644136-59e9f0d2-8fae-4b9c-9b5d-8b4b8b2d9f8b.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" />
+
 </div>
 
-## 📊 **POWER LEVEL ANALYSIS**
+## 📊 **PERFORMANCE ANALYTICS**
 
 <div align="center">
   
@@ -87,7 +92,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
   
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0ura8hs&theme=react-dark&hide_border=true&custom_title=🌸%20Coding%20Journey%20-%20Sakura%20Blossoms%20🌸&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0ura8hs&theme=react-dark&hide_border=true&custom_title=🌸%20Development%20Activity%20-%20Continuous%20Growth%20🌸&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF" width="100%" />
   
   <!-- Stats Cards -->
   <table>
@@ -103,7 +108,7 @@
   
 </div>
 
-## 🌟 **LEGENDARY JUTSU** (Featured Projects)
+## 🌟 **FEATURED PROJECTS** 
 
 <div align="center">
   
@@ -134,7 +139,7 @@
       <td width="50%">
         <div align="center">
           <img src="https://user-images.githubusercontent.com/74038190/216644507-f5e8d7d7-ac3c-4a7d-9e02-5c6b6c3d5a9a.gif" width="50" />
-          <h3>🎯 **Habit Manager**</h3>
+          <h3>🎯 **Habit Management System**</h3>
           <a href="https://github.com/s0ura8hs/Habit-Manager" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=Habit-Manager&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" />
           </a>
@@ -147,7 +152,7 @@
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><sub>🎮 Gamified tracking with 50+ unlockable badges</sub></p>
+          <p><sub>🎮 Gamified tracking with 50+ achievement badges</sub></p>
         </div>
       </td>
     </tr>
@@ -155,7 +160,7 @@
       <td width="50%">
         <div align="center">
           <img src="https://user-images.githubusercontent.com/74038190/216644446-c1c7c8c4-1089-4e2f-9b81-4cc8e1a2f8a4.gif" width="50" />
-          <h3>💼 **Interactive Portfolio**</h3>
+          <h3>💼 **Professional Portfolio**</h3>
           <a href="https://github.com/s0ura8hs/s0urabh-portfolio" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=s0urabh-portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" />
           </a>
@@ -174,7 +179,7 @@
       <td width="50%">
         <div align="center">
           <img src="https://user-images.githubusercontent.com/74038190/216644458-8b8a0a9e-9e5b-4b8a-9d7e-6c9b4a6e7c5a.gif" width="50" />
-          <h3>🧩 **Fifteen Puzzle**</h3>
+          <h3>🧩 **Algorithm Implementation**</h3>
           <a href="https://github.com/s0ura8hs/FifteenPuzzleGame" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=FifteenPuzzleGame&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" />
           </a>
@@ -184,7 +189,7 @@
               <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><sub>🤖 Android puzzle game with IDA* algorithm</sub></p>
+          <p><sub>🤖 Android application with IDA* algorithm optimization</sub></p>
         </div>
       </td>
     </tr>
@@ -192,7 +197,7 @@
   
 </div>
 
-## 🏆 **HALL OF FAME** (GitHub Achievements)
+## 🏆 **ACHIEVEMENTS & RECOGNITION** 
 
 <div align="center">
   
@@ -201,9 +206,15 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=s0ura8hs&theme=react&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
   
+  <!-- Additional Animated Elements -->
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d6-09b7ca12a7b4.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" />
+  
 </div>
 
-## 🌐 **DIMENSIONAL PORTALS** (Connect & Collaborate)
+## 🌐 **PROFESSIONAL NETWORK** 
 
 <div align="center">
   
@@ -230,7 +241,7 @@
   
 </div>
 
-## 🎨 **WISDOM SCROLL** (Fun Zone)
+## 🎨 **INSPIRATION & MOTIVATION** 
 
 <div align="center">
   
@@ -251,10 +262,12 @@
   <!-- Final Animated Character -->
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" />
   
-  <h3>✨ **Building digital experiences that blend creativity with functionality** ✨</h3>
-  <h4>⚡ **"The code is strong with this one"** ⚡</h4>
+  <!-- Gradient Color Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=gradient&background=0D111700&center=true&vCenter=true&multiline=true&width=600&lines=✨+Building+innovative+solutions+✨;⚡+Passionate+about+clean+code+⚡;🚀+Always+learning+%26+growing+🚀" alt="Typing SVG" />
   
-  <sub>💙 Crafted with passion, anime vibes, and ☕ by **Sourabh** 💙</sub>
+  <h4>💫 **"Excellence is not a destination, but a journey"** 💫</h4>
+  
+  <sub>💙 Crafted with dedication, creativity, and ☕ by **Sourabh** 💙</sub>
   
   <!-- Animated Ending -->
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
