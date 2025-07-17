@@ -1,189 +1,262 @@
-# 🚀 Sourabh Khairwal
+# 🌟 Sourabh Khairwal
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00D9FF&background=0D1117&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;B.Tech+IT+%40+University+of+Delhi+%F0%9F%8E%93;Problem+Solver+%7C+Creative+Thinker+%F0%9F%A7%A9;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  
+  <!-- Animated Background with Blue Electrons -->
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+  
+  <!-- Anime Character Header -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+  
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=2500&pause=600&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=⚡+FULL+STACK+DEVELOPER+⚡;🎯+B.Tech+IT+%40+University+of+Delhi+🎯;🚀+CODE+WARRIOR+%7C+ANIME+ENTHUSIAST+🚀;💫+BUILDING+DIGITAL+UNIVERSES+💫" alt="Typing SVG" />
+  
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+  
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</div>
-
-## 🎯 Quick Facts
+## 🎌 **NINJA STATS** 
 
 <div align="center">
+  
+  <!-- Animated Stats Cards -->
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/GPA-8.63%2F10-brightgreen?style=for-the-badge&logo=academia&logoColor=white" />
-        <br><sub>Academic Excellence</sub>
+        <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80" />
+        <br>
+        <img src="https://img.shields.io/badge/GPA-8.63%2F10-00D9FF?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" />
+        <br><sub><b>🏆 Academic Sensei</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Location-New%20Delhi-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" />
-        <br><sub>Based in India 🇮🇳</sub>
+        <img src="https://user-images.githubusercontent.com/74038190/216644446-c1c7c8c4-1089-4e2f-9b81-4cc8e1a2f8a4.gif" width="80" />
+        <br>
+        <img src="https://img.shields.io/badge/Location-New%20Delhi-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
+        <br><sub><b>🌸 Based in India 🇮🇳</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack-4ecdc4?style=for-the-badge&logo=stackexchange&logoColor=white" />
-        <br><sub>Web Development</sub>
+        <img src="https://user-images.githubusercontent.com/74038190/216644507-f5e8d7d7-ac3c-4a7d-9e02-5c6b6c3d5a9a.gif" width="80" />
+        <br>
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack-4ECDC4?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0D1117" />
+        <br><sub><b>⚔️ Web Samurai</b></sub>
       </td>
     </tr>
   </table>
+  
 </div>
 
-## 🛠️ Tech Arsenal
+## 🔮 **CHAKRA TECHNIQUES** (Tech Stack)
 
 <div align="center">
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  
+  <!-- Animated Section Header -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+  
+  ### ⚡ **Lightning Style - Languages & Frameworks**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,java,cpp,react,html,css&theme=dark" />
+  </p>
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+  
+  ### 🛠️ **Shadow Clone - Tools & Platforms**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,netlify&theme=dark" />
+  </p>
+  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=0D1117)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117)
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 **POWER LEVEL ANALYSIS**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0ura8hs&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0ura8hs&theme=react-dark&hide_border=true&custom_title=🌸%20Coding%20Journey%20-%20Sakura%20Blossoms%20🌸&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF" width="100%" />
+  
+  <!-- Stats Cards -->
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0ura8hs&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ura8hs&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0ura8hs&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ura8hs&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-</div>
+## 🌟 **LEGENDARY JUTSU** (Featured Projects)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=s0ura8hs&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
+  
+  <!-- Animated Section Header -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d6-09b7ca12a7b4.gif" width="100" />
+  
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌟 Portfolio Generator</h3>
         <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" />
+          <h3>🌟 **Portfolio Generator**</h3>
           <a href="https://github.com/s0ura8hs/portfolio-website-generator" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=portfolio-website-generator&theme=react&hide_border=true" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=portfolio-website-generator&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" />
           </a>
           <br><br>
           <p>
             <a href="https://github.com/s0ura8hs/portfolio-website-generator" target="_blank">
-              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
             <a href="https://portfolio-website-generator.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><sub>Automated tool with glassmorphism design & one-click deployment</sub></p>
+          <p><sub>⚡ Automated tool with glassmorphism design & one-click deployment</sub></p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🎯 Habit Manager</h3>
         <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/216644507-f5e8d7d7-ac3c-4a7d-9e02-5c6b6c3d5a9a.gif" width="50" />
+          <h3>🎯 **Habit Manager**</h3>
           <a href="https://github.com/s0ura8hs/Habit-Manager" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=Habit-Manager&theme=react&hide_border=true" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=Habit-Manager&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" />
           </a>
           <br><br>
           <p>
             <a href="https://github.com/s0ura8hs/Habit-Manager" target="_blank">
-              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
             <a href="https://habit-manager-app.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><sub>Gamified tracking with 50+ unlockable badges</sub></p>
+          <p><sub>🎮 Gamified tracking with 50+ unlockable badges</sub></p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">💼 Interactive Portfolio</h3>
         <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/216644446-c1c7c8c4-1089-4e2f-9b81-4cc8e1a2f8a4.gif" width="50" />
+          <h3>💼 **Interactive Portfolio**</h3>
           <a href="https://github.com/s0ura8hs/s0urabh-portfolio" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=s0urabh-portfolio&theme=react&hide_border=true" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=s0urabh-portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" />
           </a>
           <br><br>
           <p>
             <a href="https://github.com/s0ura8hs/s0urabh-portfolio" target="_blank">
-              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
             <a href="https://s0urabh-portfolio.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><sub>Neural network visualization with 60fps animations</sub></p>
+          <p><sub>🧠 Neural network visualization with 60fps animations</sub></p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🧩 Fifteen Puzzle</h3>
         <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/216644458-8b8a0a9e-9e5b-4b8a-9d7e-6c9b4a6e7c5a.gif" width="50" />
+          <h3>🧩 **Fifteen Puzzle**</h3>
           <a href="https://github.com/s0ura8hs/FifteenPuzzleGame" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=FifteenPuzzleGame&theme=react&hide_border=true" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0ura8hs&repo=FifteenPuzzleGame&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" />
           </a>
           <br><br>
           <p>
             <a href="https://github.com/s0ura8hs/FifteenPuzzleGame" target="_blank">
-              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><sub>Android puzzle game with IDA* algorithm</sub></p>
+          <p><sub>🤖 Android puzzle game with IDA* algorithm</sub></p>
         </div>
       </td>
     </tr>
   </table>
+  
 </div>
 
-## 🎮 GitHub Achievements
+## 🏆 **HALL OF FAME** (GitHub Achievements)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s0ura8hs&theme=react&no-frame=true&no-bg=true&margin-w=4" />
+  
+  <!-- Animated Trophy -->
+  <img src="https://user-images.githubusercontent.com/74038190/216644458-8b8a0a9e-9e5b-4b8a-9d7e-6c9b4a6e7c5a.gif" width="100" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=s0ura8hs&theme=react&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
+  
 </div>
 
-## 🌐 Connect & Collaborate
+## 🌐 **DIMENSIONAL PORTALS** (Connect & Collaborate)
 
 <div align="center">
+  
+  <!-- Animated Network -->
+  <img src="https://user-images.githubusercontent.com/74038190/216644136-59e9f0d2-8fae-4b9c-9b5d-8b4b8b2d9f8b.gif" width="100" />
+  
   <a href="https://s0urabh-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌸_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0D1117" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sourabh-khairwal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
   <a href="mailto:sourabhkhairwal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
   <a href="https://github.com/s0ura8hs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/⚡_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
   </a>
+  
+  <br><br>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=s0ura8hs&color=00D9FF&style=for-the-badge&label=👁️_Profile_Views" alt="Profile Views" />
+  
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=s0ura8hs&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
-
-## 🎨 Fun Zone
+## 🎨 **WISDOM SCROLL** (Fun Zone)
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+  <!-- Animated Scroll -->
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80" />
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  
+  <!-- Animated Footer -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+  
 </div>
 
 ---
 
 <div align="center">
-  <h3>✨ Building digital experiences that blend creativity with functionality ✨</h3>
-  <sub>💙 Crafted with passion and ☕ by Sourabh</sub>
+  
+  <!-- Final Animated Character -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" />
+  
+  <h3>✨ **Building digital experiences that blend creativity with functionality** ✨</h3>
+  <h4>⚡ **"The code is strong with this one"** ⚡</h4>
+  
+  <sub>💙 Crafted with passion, anime vibes, and ☕ by **Sourabh** 💙</sub>
+  
+  <!-- Animated Ending -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+  
 </div>
