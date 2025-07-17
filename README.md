@@ -52,12 +52,12 @@ const sourabh = {
 ## <span style="color: #FF6B6B;">📊</span> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0ura8hs&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=s0ura8hs&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0ura8hs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ura8hs&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ura8hs&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 </div>
 
 ## <span style="color: #FFD700;">🎮</span> Featured Projects
