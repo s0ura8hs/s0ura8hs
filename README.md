@@ -75,8 +75,6 @@
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117)
 
   <!-- Additional Cool Animations -->
-  <img src="https://user-images.githubusercontent.com/74038190/216644458-8b8a0a9e-9e5b-4b8a-9d7e-6c9b4a6e7c5a.gif" width="50" />
-  <img src="https://user-images.githubusercontent.com/74038190/216644136-59e9f0d2-8fae-4b9c-9b5d-8b4b8b2d9f8b.gif" width="50" />
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" />
 
 </div>
@@ -194,22 +192,6 @@
   
 </div>
 
-## 🏆 **ACHIEVEMENTS & RECOGNITION** 
-
-<div align="center">
-  
-  <!-- Animated Trophy -->
-  <img src="https://user-images.githubusercontent.com/74038190/216644458-8b8a0a9e-9e5b-4b8a-9d7e-6c9b4a6e7c5a.gif" width="100" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=s0ura8hs&theme=react&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
-  
-  <!-- Additional Animated Elements -->
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d6-09b7ca12a7b4.gif" width="80" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" />
-  
-</div>
 
 ## 🌐 **PROFESSIONAL NETWORK** 
 
