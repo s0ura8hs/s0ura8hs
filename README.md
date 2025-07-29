@@ -255,21 +255,3 @@
   
 </div>
 
----
-
-<div align="center">
-  
-  <!-- Final Animated Character -->
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" />
-  
-  <!-- Gradient Color Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=gradient&background=0D111700&center=true&vCenter=true&multiline=true&width=600&lines=✨+Building+innovative+solutions+✨;⚡+Passionate+about+clean+code+⚡;🚀+Always+learning+%26+growing+🚀" alt="Typing SVG" />
-  
-  <h4>💫 **"Excellence is not a destination, but a journey"** 💫</h4>
-  
-  <sub>💙 Crafted with dedication, creativity, and ☕ by **Sourabh** 💙</sub>
-  
-  <!-- Animated Ending -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-  
-</div>
