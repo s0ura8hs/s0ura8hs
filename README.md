@@ -8,9 +8,6 @@
   <!-- Anime Character Header -->
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
   
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=2500&pause=600&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=⚡+FULL+STACK+DEVELOPER+⚡;🎯+B.Tech+IT+%40+University+of+Delhi+🎯;🚀+SOFTWARE+ENGINEER+%7C+PROBLEM+SOLVER+🚀;💫+BUILDING+SCALABLE+SOLUTIONS+💫" />
-  
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
   
