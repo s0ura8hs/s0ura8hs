@@ -23,7 +23,7 @@
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80" />
         <br>
-        <img src="https://img.shields.io/badge/GPA-8.63%2F10-00D9FF?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/GPA-8.16%2F10-00D9FF?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" />
         <br><sub><b>🏆 Academic Excellence</b></sub>
       </td>
       <td align="center">
